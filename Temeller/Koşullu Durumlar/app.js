@@ -26,7 +26,7 @@ console.log("or operatörü: ||");
 console.log((4 == 2) || ("Ahmet" == "Ahmet"));
 // IF KOŞULLARI
 console.log("if koşulları");
-/* if (koşul) {
+/* if (koşul){
      if bloğu
  } */
 const error = false;
