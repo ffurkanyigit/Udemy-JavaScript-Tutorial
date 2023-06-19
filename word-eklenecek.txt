@@ -1,2 +1,3 @@
-Döngüler
-Window Objesi 
+15_Döngüler
+16_Window Objesi 
+17_Kapsam (Scope) Kavramı
